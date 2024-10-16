@@ -1,4 +1,4 @@
-** sch_path: /home/ahmadjabar/project/inverter/inverter.sch
+** sch_path: /home/abdulaziz/projek/inverter.sch
 **.subckt inverter in out vvdd vgnd
 *.ipin in
 *.opin out
