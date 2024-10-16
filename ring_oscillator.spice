@@ -1,4 +1,4 @@
-** sch_path: /home/ahmadjabar/project/inverter/3-ringosc.sch
+** sch_path: /home/abdulaziz/projek/ring_oscillator.sch
 **.subckt 3-ringosc vvdd out vgnd
 *.iopin vvdd
 *.iopin vgnd
